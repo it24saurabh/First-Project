@@ -1,0 +1,26 @@
+FIRST GIT PROJECT
+
+This is my first Git project using GitHub.
+
+Git is a distributed version control system used to track changes in files and collaborate on software projects.
+
+Git Operations:
+1. Repository Initialization
+2. File Creation
+3. Git Status
+4. Git Add
+5. Git Commit
+6. Git Log
+7. Branch Creation
+8. Branch Switching
+9. Branch Merging
+10. Push to GitHub
+
+Project: Online Library Management System
+
+Features:
+1. Student Registration
+2. Login
+3. Search Books
+4. Borrow Book
+5. Return Book
